@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Dune",
+        "renter": "Alice",
+        "id": 1
+    },
+    {
+        "title": "Dune",
+        "renter": "tanya",
+        "id": 2
+    },
+    {
+        "title": "bla",
+        "renter": "tanya",
+        "id": 3
+    }
+]

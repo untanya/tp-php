@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Dune",
+        "author": "Frank Herbert",
+        "year": 1965,
+        "category": "Science-fiction",
+        "id": 1
+    },
+    {
+        "title": "Dune",
+        "author": "tata",
+        "year": "2021",
+        "category": "bla",
+        "id": 2
+    },
+    {
+        "title": "bla",
+        "author": "tanya",
+        "year": "2025",
+        "category": "sf",
+        "id": 3
+    }
+]
